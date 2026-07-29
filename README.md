@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Cover-art-github.png" alt="Cover art" width="100%"/>
+  <img src="./Github-banner-samanxdev.png" alt="Cover art" width="100%"/>
 </div>
 
 <h2 align="center">Hi there 👋</h2>
@@ -24,7 +24,7 @@
 <h3 align="center">🚀 Featured Projects</h3>
 
 <p align="center">
-  🔹 <a href="https://github.com/Samanh84/Postino">Postino</a> – A postal site with tracking code and mail delivery record.<br>
+  🔹 <a href="https://github.com/SamanXdev/Postino">Postino</a> – A postal site with tracking code and mail delivery record.<br>
   🔹 <a href="#">Project 2</a> – Short description.<br>
 </p>
 
